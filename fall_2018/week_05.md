@@ -13,6 +13,6 @@
   - it takes time and patience to mentor non-major students
 ## Notes
 I'm not good at counting weeks so I'm just gonna put the dates here.<br>
-Today is Sep.25
+Today is Sep.25     
 ## Errata
 None yet.

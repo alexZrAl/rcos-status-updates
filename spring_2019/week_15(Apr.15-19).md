@@ -13,3 +13,7 @@
 ## Obstacles
 
 - Server firewall is still blocking requests sent to the database server. We might have to put data on the server instead of another place.
+
+## misc.
+
+- due to merge conflicts, I deleted my fork of our main repository. From this point I will be pushing directly to the [main repository](https://github.com/phantomlei3/RPICourseTrends).
